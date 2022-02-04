@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elkrien/chrome/main/assets/chrome-cat.png"/>
+  <img src="https://raw.githubusercontent.com/elkrien/chrome/main/assets/cat-chrome.png"/>
 </p>
 
 
