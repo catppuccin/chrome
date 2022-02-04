@@ -11,28 +11,24 @@
     },
 
     "colors": {
-      // main theme
-      "frame": [0, 0, 0], // overridden by images.theme_frame, but must be black to hide frame outline
-      "frame_inactive": [0, 0, 0], // base - overridden by tints.frame_inactive but may need to be black to hide frame outline
+      "frame": [0, 0, 0],
+      "frame_inactive": [0, 0, 0],
       "bookmark_text": [217, 224, 238],
       "button_background": [30, 30, 46],
       "tab_background_text": [110, 108, 126],
       "tab_background_text_inactive": [87, 82, 104],
       "tab_text": [217, 224, 238],
-      "toolbar": [30, 30, 46], //check
+      "toolbar": [30, 30, 46],
       "toolbar_button_icon": [217, 224, 238],
-
-      // incognito
+      
       "frame_incognito": [0, 0, 0],
       "frame_incognito_inactive": [87, 82, 104],
       "tab_background_text_incognito": [217, 224, 238],
       "tab_background_text_incognito_inactive": [110, 108, 126],
 
-      // omnibox
       "omnibox_text": [245, 224, 220],
       "omnibox_background": [30, 30, 46],
 
-      // new tab page
       "ntp_background": [30, 30, 46],
       "ntp_header": [30, 30, 46],
       "ntp_link": [110, 108, 126],
