@@ -1,7 +1,7 @@
 {
   "version": "1",
   "name": "Catppuccin Chrome",
-  "manifest_version": 2,
+  "manifest_version": 3,
 
   "theme": {
     "images": {
@@ -18,7 +18,7 @@
       "tab_background_text": [110, 108, 126],
       "tab_background_text_inactive": [87, 82, 104],
       "tab_text": [217, 224, 238],
-      "toolbar": [30, 30, 46],
+      "toolbar": [48, 45, 65],
       "toolbar_button_icon": [217, 224, 238],
       
       "frame_incognito": [0, 0, 0],
@@ -30,9 +30,9 @@
       "omnibox_background": [30, 30, 46],
 
       "ntp_background": [30, 30, 46],
-      "ntp_header": [30, 30, 46],
-      "ntp_link": [110, 108, 126],
-      "ntp_text": [110, 108, 126]
+      "ntp_header": [217, 224, 238],
+      "ntp_link": [217, 224, 238],
+      "ntp_text": [217, 224, 238]
     },
 
     "tints": {
