@@ -22,7 +22,12 @@
 3. Type `chrome://extensions` in the address bar.
 4. Select the "Developer mode" checkbox.
 5. Click the "Load unpacked" button.
-6. Choose the "chrome" directory (cloned repository).
+6. Choose the selected theme directory:
+    - Chrome-theme
+    - Chrome-theme-dark
+<p align="center">
+  <img src="assets/cat-chrome-themes.png"/>
+</p>
 
 ## 💝 Thanks to
 
