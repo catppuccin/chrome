@@ -17,6 +17,18 @@
 
 ## Usage
 
+
+### Chrome Web Store:
+Install one of the themes from the store:
+
+- [Catppuccin](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme/cmpdlhmnmjhihmcfnigoememnffkimlk)
+- [Catppuccin Dark](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-d/bkkmolkhemgaeaeggcmfbghljjjoofoh)
+<p align="center">
+  <img src="assets/cat-chrome-themes.png"/>
+</p>
+
+### Manual installation:
+
 1. Clone this repository locally.
 2. Open Chrome.
 3. Type `chrome://extensions` in the address bar.
@@ -25,12 +37,11 @@
 6. Choose the selected theme directory:
     - Chrome-theme
     - Chrome-theme-dark
-<p align="center">
-  <img src="assets/cat-chrome-themes.png"/>
-</p>
+
 
 ## 💝 Thanks to
 
+- [tuhanayim](https://github.com/tuhanayim)
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
