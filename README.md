@@ -21,10 +21,10 @@
 ### Chrome Web Store:
 Install one of the themes from the store:
 
-- [Catppuccin Latte](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-l/jhjnalhegpceacdhbplhnakmkdliaddd)
-- [Catppuccin Frappe](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-f/olhelnoplefjdmncknfphenjclimckaf)
-- [Catppuccin Macchiato](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-m/cmpdlhmnmjhihmcfnigoememnffkimlk)
-- [Catppuccin Mocha](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh)
+- 🌻 [Catppuccin Latte](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-l/jhjnalhegpceacdhbplhnakmkdliaddd)
+- 🪴 [Catppuccin Frappe](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-f/olhelnoplefjdmncknfphenjclimckaf)
+- 🌺 [Catppuccin Macchiato](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-m/cmpdlhmnmjhihmcfnigoememnffkimlk)
+- 🌿 [Catppuccin Mocha](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh)
 
 
 ### Manual installation:
