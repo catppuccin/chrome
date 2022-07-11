@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/cat-chrome.png"/>
+  <img src="assets/cat-chrome-1.png"/>
 </p>
 
 
@@ -29,11 +29,11 @@ Install one of the themes from the store:
 
 ### Manual installation:
 
-1. Clone this repository locally.
-2. Open Chrome.
-3. Type `chrome://extensions` in the address bar.
-4. Select the "Developer mode" checkbox.
-5. Click the "Load unpacked" button.
+1. Clone this repository locally
+2. Open Chrome
+3. Type `chrome://extensions` in the address bar
+4. Select the "Developer mode" checkbox
+5. Click the "Load unpacked" button
 6. Choose the selected theme directory from `src`:
     - 🌻 Chrome-catppuccin-latte
     - 🪴 Chrome-catppuccin-frappe
