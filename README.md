@@ -11,12 +11,29 @@
 </p>
 
 <p align="center">
-  <img src="assets/cat-chrome-1.png"/>
+  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome.png"/>
 </p>
 
+## Previews
+
+<details>
+<summary>🌻 Latte</summary>
+  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome-latte.png"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome-frappe.png"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome-macchiato.png"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome-mocha.png"/>
+</details>
 
 ## Usage
-
 
 ### Chrome Web Store:
 Install one of the themes from the store:
@@ -25,7 +42,6 @@ Install one of the themes from the store:
 - 🪴 [Catppuccin Frappe](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-f/olhelnoplefjdmncknfphenjclimckaf)
 - 🌺 [Catppuccin Macchiato](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-m/cmpdlhmnmjhihmcfnigoememnffkimlk)
 - 🌿 [Catppuccin Mocha](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh)
-
 
 ### Manual installation:
 
