@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Catppuccin Chrome Theme - Mocha",
+  "description": "Soothing pastel theme for Google Chrome - Catppuccin Mocha",
+  "version": "3.0",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [30, 30, 46],
+      "frame_inactive": [30, 30, 46],
+      "frame_incognito": [69, 71, 90],
+      "frame_incognito_inactive": [69, 71, 90],
+      "bookmark_text": [205, 214, 244],
+      "tab_background_text": [108, 112, 134],
+      "tab_background_text_inactive": [69, 71, 90],
+      "tab_background_text_incognito": [205, 214, 244],
+      "tab_background_text_incognito_inactive": [108, 112, 134],
+      "tab_text": [205, 214, 244],
+      "toolbar": [30, 30, 46],
+      "toolbar_button_icon": [205, 214, 244],
+      "omnibox_text": [203, 166, 247],
+      "omnibox_background": [49, 50, 68],
+      "ntp_background": [30, 30, 46],
+      "ntp_link": [203, 166, 247],
+      "ntp_text": [205, 214, 244],
+      "button_background": [30, 30, 46]
+    }
+  }
+}
