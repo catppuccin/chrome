@@ -27,7 +27,7 @@
       "ntp_background": [24, 25, 38],
       "ntp_link": [COLOR],
       "ntp_text": [202, 211, 245],
-      "button_background": [36, 39, 58]
+      "button_background": [24, 25, 38]
     }
   }
 }
