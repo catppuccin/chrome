@@ -27,7 +27,7 @@
       "ntp_background": [35, 38, 52],
       "ntp_link": [239, 159, 118],
       "ntp_text": [198, 208, 245],
-      "button_background": [48, 52, 70]
+      "button_background": [35, 38, 52]
     }
   }
 }
