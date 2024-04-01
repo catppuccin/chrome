@@ -8,14 +8,15 @@ whiskers:
 version: 4.1
 ---
 {%- set palette = flavor.colors -%}
-{%- set idcap = flavor.identifier | capitalize -%}
+{%- set identCap = flavor.identifier | capitalize -%}
+{%- set accentCap = accent | capitalize -%}
 {%- macro rgb(c) -%}
 [{{c.rgb.r}}, {{c.rgb.g}}, {{c.rgb.b}}]
 {%- endmacro rgb -%}
 {
   "manifest_version": 3,
-  "name": "Catppuccin Chrome Theme - {{ idcap }}",
-  "description": "Soothing pastel theme for Google Chrome - Catppuccin {{ idcap }}",
+  "name": "Catppuccin Chrome Theme - {{ identCap }} {{ accentCap }}",
+  "description": "Soothing pastel theme for Google Chrome - Catppuccin {{ identCap }}",
   "version": "{{ version }}",
   "icons": {
     "16": "images/icon16.png",
@@ -35,11 +36,11 @@ version: 4.1
       "tab_background_text_incognito_inactive": {{ self::rgb(c=palette.overlay0) }},
       "tab_text": {{ self::rgb(c=palette.text) }},
       "toolbar": {{ self::rgb(c=palette.base) }},
-      "toolbar_button_icon": {{ self::rgb(c=palette.text) }},
-      "omnibox_text": {{ self::rgb(c=palette.text) }},
+      "toolbar_button_icon": {{ self::rgb(c=palette[accent]) }},
+      "omnibox_text": {{ self::rgb(c=palette[accent]) }},
       "omnibox_background": {{ self::rgb(c=palette.crust) }},
       "ntp_background": {{ self::rgb(c=palette.crust) }},
-      "ntp_link": {{ self::rgb(c=palette.text) }},
+      "ntp_link": {{ self::rgb(c=palette[accent]) }},
       "ntp_text": {{ self::rgb(c=palette.text) }},
       "button_background": {{ self::rgb(c=palette.crust) }},
     }
