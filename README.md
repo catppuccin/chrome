@@ -50,11 +50,11 @@ Install one of the themes from the store:
 3. Type `chrome://extensions` in the address bar
 4. Select the "Developer mode" checkbox
 5. Click the "Load unpacked" button
-6. Choose the selected accent from the theme directory from `src`:
-    - 🌻 Chrome-catppuccin-latte
-    - 🪴 Chrome-catppuccin-frappe
-    - 🌺 Chrome-catppuccin-macchiato
-    - 🌿 Chrome-catppuccin-mocha
+6. Choose the selected accent from the theme directory from `themes`:
+    - 🌻 latte
+    - 🪴 frappe
+    - 🌺 macchiato
+    - 🌿 mocha
 
 ## 💝 Thanks to
 
