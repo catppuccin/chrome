@@ -10,8 +10,8 @@ version: 4.1
 {%- set palette = flavor.colors -%}
 {%- set identCap = flavor.identifier | capitalize -%}
 {%- set accentCap = accent | capitalize -%}
-{%- macro rgb(c) -%}
-[{{c.rgb.r}}, {{c.rgb.g}}, {{c.rgb.b}}]
+{%- macro rgb(color) -%}
+[{{ color.rgb.r }}, {{ color.rgb.g }}, {{ color.rgb.b }}]
 {%- endmacro rgb -%}
 {
   "manifest_version": 3,
