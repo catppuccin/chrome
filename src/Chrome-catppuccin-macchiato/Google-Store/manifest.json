@@ -16,7 +16,7 @@
       "frame_incognito_inactive": [73, 77, 100],
       "bookmark_text": [202, 211, 245],
       "tab_background_text": [110, 115, 141],
-      "tab_background_text_inactive": [73, 77, 100],
+      "tab_background_text_inactive": [128, 135, 162],
       "tab_background_text_incognito": [202, 211, 245],
       "tab_background_text_incognito_inactive": [110, 115, 141],
       "tab_text": [202, 211, 245],
