@@ -11,31 +11,32 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome.png"/>
+  <img src="./assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome-latte.png"/>
+  <img src="./assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome-frappe.png"/>
+  <img src="./assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome-macchiato.png"/>
+  <img src="./assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/chrome/main/assets/chrome-mocha.png"/>
+  <img src="./assets/mocha.webp"/>
 </details>
 
 ## Usage
 
-### Chrome Web Store:
+### Chrome Web Store
+
 Install one of the themes from the store:
 
 - 🌻 [Catppuccin Latte](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-l/jhjnalhegpceacdhbplhnakmkdliaddd)
@@ -43,23 +44,21 @@ Install one of the themes from the store:
 - 🌺 [Catppuccin Macchiato](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-m/cmpdlhmnmjhihmcfnigoememnffkimlk)
 - 🌿 [Catppuccin Mocha](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh)
 
-### Manual installation:
+### Manual Installation
 
 1. Clone this repository locally
 2. Open Chrome
 3. Type `chrome://extensions` in the address bar
 4. Select the "Developer mode" checkbox
 5. Click the "Load unpacked" button
-6. Choose the selected accent from the theme directory from `src`:
-    - 🌻 Chrome-catppuccin-latte
-    - 🪴 Chrome-catppuccin-frappe
-    - 🌺 Chrome-catppuccin-macchiato
-    - 🌿 Chrome-catppuccin-mocha
+6. Choose your flavour + accent from the [themes](./themes) directory
 
 ## 💝 Thanks to
 
 - [elkrien](https://github.com/elkrien)
 - [tuhanayim](https://github.com/tuhanayim)
+- [Hammy](https://github.com/sgoudham)
+- [nullishamy](https://github.com/nullishamy)
 
 &nbsp;
 
