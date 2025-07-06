@@ -4,7 +4,7 @@ whiskers:
   matrix:
     - flavor
   filename: "themes/{{ flavor.identifier }}/google-store/manifest.json"
-version: 5.0.0
+version: 4.1
 ---
 {%- set palette = flavor.colors -%}
 {%- macro rgb(c) -%}
