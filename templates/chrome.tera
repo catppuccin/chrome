@@ -1,11 +1,11 @@
 ---
 whiskers:
-  version: 2.0.0
+  version: ^2.5.1
   matrix:
     - flavor
     - accent
   filename: "themes/{{ flavor.identifier }}/{{ accent }}/manifest.json"
-version: 4.1
+version: 4.1.0
 ---
 {%- set palette = flavor.colors -%}
 {%- macro rgb(c) -%}
@@ -40,7 +40,7 @@ version: 4.1
       "ntp_background": {{ self::rgb(c=palette.crust) }},
       "ntp_link": {{ self::rgb(c=palette[accent]) }},
       "ntp_text": {{ self::rgb(c=palette.text) }},
-      "button_background": {{ self::rgb(c=palette.crust) }},
+      "button_background": {{ self::rgb(c=palette.crust) }}
     }
   }
 }
