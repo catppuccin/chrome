@@ -50,11 +50,7 @@ Install one of the themes from the store:
 3. Type `chrome://extensions` in the address bar
 4. Select the "Developer mode" checkbox
 5. Click the "Load unpacked" button
-6. Choose the selected accent from the theme directory from `themes`:
-    - 🌻 latte
-    - 🪴 frappe
-    - 🌺 macchiato
-    - 🌿 mocha
+6. Choose your flavour + accent from the [themes](./themes) directory
 
 ## 💝 Thanks to
 

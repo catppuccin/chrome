@@ -37,7 +37,7 @@ version: 5.0.0
       "toolbar_button_icon": {{ self::rgb(c=palette[accent]) }},
       "omnibox_text": {{ self::rgb(c=palette[accent]) }},
       "omnibox_background": {{ self::rgb(c=palette.crust) }},
-      "ntp_background": {{ self::rgb(c=palette.crust) }},
+      "ntp_background": {{ self::rgb(c=palette.base) }},
       "ntp_link": {{ self::rgb(c=palette[accent]) }},
       "ntp_text": {{ self::rgb(c=palette.text) }},
       "button_background": {{ self::rgb(c=palette.crust) }}

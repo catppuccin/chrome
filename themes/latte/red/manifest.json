@@ -24,7 +24,7 @@
       "toolbar_button_icon": [210, 15, 57],
       "omnibox_text": [210, 15, 57],
       "omnibox_background": [220, 224, 232],
-      "ntp_background": [220, 224, 232],
+      "ntp_background": [239, 241, 245],
       "ntp_link": [210, 15, 57],
       "ntp_text": [76, 79, 105],
       "button_background": [220, 224, 232]
