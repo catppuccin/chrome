@@ -46,12 +46,12 @@ Install one of the themes from the store:
 
 ### Manual Installation
 
-1. Clone this repository locally
+1. Download and unzip your chosen flavour + accent combination from the [latest GitHub release](https://github.com/catppuccin/chrome/releases/latest)
 2. Open Chrome
 3. Type `chrome://extensions` in the address bar
 4. Select the "Developer mode" checkbox
 5. Click the "Load unpacked" button
-6. Choose your flavour + accent from the [themes](./themes) directory
+6. Select your unzipped directory from 1.
 
 ## 💝 Thanks to
 
