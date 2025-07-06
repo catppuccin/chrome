@@ -4,10 +4,8 @@
   "packages": {
     ".": {
       "package-name": "",
-      "release-type": "simple"
-    },
-    "extra-files": [
-      {
+      "release-type": "simple",
+      "extra-files": [
         {
           "path": "templates/chrome.tera",
           "type": "generic"
@@ -16,7 +14,7 @@
           "path": "templates/chrome-store.tera",
           "type": "generic"
         }
-      }
-    ]
+      ]
+    }
   }
 }
