@@ -5,7 +5,7 @@ whiskers:
     - flavor
     - accent
   filename: "themes/{{ flavor.identifier }}/{{ accent }}/manifest.json"
-version: 4.1.0
+version: 5.0.0
 ---
 {%- set palette = flavor.colors -%}
 {%- macro rgb(c) -%}
