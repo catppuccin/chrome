@@ -21,8 +21,10 @@ zip: build
   #!/usr/bin/env bash
   mkdir releases
   for flavor in $(whiskers --list-flavors -o plain); do
-    zip -r "releases/catppuccin-chrome-$flavor-google-store.zip" "./themes/$flavor/google-store/"
+    echo "zipping $flavor google-store"
+    (cd "themes/$flavor/google-store" && zip -r "../../../releases/catppuccin-chrome-$flavor-google-store.zip" ".")
     for accent in $(whiskers --list-accents -o plain); do
-      zip -r "releases/catppuccin-chrome-$flavor-$accent.zip" "./themes/$flavor/$accent/"
+      echo "zipping $flavor $accent"
+      (cd "themes/$flavor/$accent" && zip -r "../../../releases/catppuccin-chrome-$flavor-$accent.zip" ".")
     done
   done
