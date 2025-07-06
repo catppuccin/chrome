@@ -57,6 +57,8 @@ Install one of the themes from the store:
 
 - [elkrien](https://github.com/elkrien)
 - [tuhanayim](https://github.com/tuhanayim)
+- [Hammy](https://github.com/sgoudham)
+- [nullishamy](https://github.com/nullishamy)
 
 &nbsp;
 
